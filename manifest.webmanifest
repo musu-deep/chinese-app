@@ -1,0 +1,17 @@
+{
+  "name": "HanYu Path — الصينية بالعربية",
+  "short_name": "HanYu Path",
+  "description": "Arabic-first Chinese learning platform for beginner A1 learners.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111d",
+  "theme_color": "#07111d",
+  "orientation": "portrait-primary",
+  "categories": ["education", "language"],
+  "icons": [
+    {"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
